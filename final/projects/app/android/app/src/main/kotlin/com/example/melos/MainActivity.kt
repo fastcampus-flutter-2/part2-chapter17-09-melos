@@ -1,4 +1,4 @@
-package com.example.final
+package com.example.melos
 
 import io.flutter.embedding.android.FlutterActivity
 
